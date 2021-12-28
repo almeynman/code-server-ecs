@@ -1,0 +1,5 @@
+{
+  "CodeServerEcsStack": {
+    "SvcLoadBalancerDNSEA316F6A": "CodeS-SvcLB-1RBFYKPS4DWJB-44b6d64a6ee47c69.elb.us-east-1.amazonaws.com"
+  }
+}
